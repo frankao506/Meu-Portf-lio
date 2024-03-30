@@ -349,8 +349,15 @@ section.sobre .flex {
 }
 
 .NOVO {
-  border-radius: 12px;
-  height: 325px;
+  border-radius: 78px;
+  height: 305px;
+
+
+}
+
+img{
+  clip-path: polygon(45% 0%, 83% 10%, 100% 45%, 95% 78%, 68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+
 }
 
 
