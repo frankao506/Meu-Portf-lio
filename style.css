@@ -396,6 +396,7 @@ section.portfolio .flex {
 
 
 
+
 .img-port {
   width: 480px;
   height: 300px;
@@ -567,9 +568,10 @@ footer p {
   width: 300px;
 }
 
-.line-footer {
+.line-footer{
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-direction: column-reverse;
+}
 }
